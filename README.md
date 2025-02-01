@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://toxa-dev.github.io/frontendmentor.io-profile-card-component-01)
+- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-profile-card-component-01)
 
 ## My process
 
@@ -36,9 +36,9 @@ The positioning of .card-image makes it difficult to adjust the padding-top or m
 
 ## Author
 
-- Website - (https://toxa-dev.github.io/)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/toxa-dev)
-- Twitter - (https://www.twitter.com/KnightOfTheCode)
+- Website - [GitHub Repository Hub](https://toxa-dev.github.io/)
+- Frontend Mentor - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/toxa-dev)
+- Twitter - [Twitter](https://www.twitter.com/KnightOfTheCode)
 
 ## Acknowledgments
 
