@@ -36,9 +36,9 @@ The positioning of .card-image makes it difficult to adjust the padding-top or m
 
 ## Author
 
-- Website - [GitHub Repository Hub](https://toxa-dev.github.io/)
-- Frontend Mentor - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/toxa-dev)
-- Twitter - [Twitter](https://www.twitter.com/KnightOfTheCode)
+- [GitHub Repository Hub](https://toxa-dev.github.io/)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/toxa-dev)
+- [Twitter Profile](https://www.twitter.com/KnightOfTheCode)
 
 ## Acknowledgments
 
