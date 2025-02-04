@@ -21,7 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-profile-card-component-01)
+- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-01-profile-card-component)
 
 ## My process
 
